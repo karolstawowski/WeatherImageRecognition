@@ -1,2 +1,5 @@
 .idea
 .ipynb_checkpoints
+model/assets
+model/variables
+model/keras_metadata.pb
