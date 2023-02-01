@@ -2,9 +2,13 @@
 
 ## Description
 
-**Weather Image Recognition** is a project which aims to create a machine learning model based on _Convolutional Neural Network_ with an objective of recognising weather present in images.
+**Weather Image Recognition** is a project which aims to create a machine learning model based on _Convolutional Neural Network_ with an objective of recognising weather present in images. The dataset is characterized by a high diversity of images.
 
 ### [Dataset source](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
+
+## Final model accuracy
+*Train accuracy: 74.87%*  
+*Test accuracy: 68.82%*
 
 ## File structure
 
